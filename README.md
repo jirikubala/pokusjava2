@@ -1,0 +1,3 @@
+# pokusjava2
+na pokusy ke smazani...
+a 3. řádek
